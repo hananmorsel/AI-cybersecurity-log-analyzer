@@ -83,15 +83,16 @@ ai-cybersecurity-log-analyzer/
 ## 🖥️ Streamlit Dashboard
 
 Run:
-
 streamlit run app/streamlit_app.py
 
-Features:
+⭐ HOW IT WORKS
+🔹 Upload any .txt log file
+🔹 The dashboard loads your trained model
+🔹 TF-IDF vectorizer converts log text → numerical features
+🔹 Isolation Forest predicts anomalies
+🔹 Results displayed in a table with labels
+🔹 Option to download results
 
-- Upload logs
-- Automatic ML-based anomaly detection
-- Table of results
-- Download analyzed logs
 ## 📌 Future Improvements
 
 - Train on larger datasets
