@@ -2,6 +2,11 @@
 # 🔐 AI Cybersecurity Log Analyzer  
 ### Machine Learning-Based Log Anomaly Detector
 
+<p align="center">
+  <img src="AI-cybersecurity-log-analyzer.png" width="850">
+</p>
+
+
 This project uses **Machine Learning + NLP** to detect suspicious activity inside log files.  
 It’s a cybersecurity-focused AI tool that demonstrates:
 
