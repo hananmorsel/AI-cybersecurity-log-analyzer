@@ -1,1 +1,51 @@
+Jan 12 00:12:44 server sshd[2112]: Accepted password for user1 from 192.168.1.10
+Jan 12 00:13:01 server sshd[2112]: Failed password for root from 51.89.23.14
+Jan 12 00:13:02 server sshd[2112]: Failed password for root from 51.89.23.14
+Jan 12 00:13:03 server sshd[2112]: Failed password for root from 51.89.23.14
+Jan 12 00:14:10 server kernel: Firewall: allowed connection from 192.168.1.22
+Jan 12 00:14:55 server systemd: Starting Daily Cleanup Service…
+Jan 12 00:15:22 server sshd[2112]: Accepted password for user2 from 192.168.1.11
+Jan 12 00:16:33 server sudo: user1 : TTY=pts/0 ; COMMAND=/usr/bin/apt update
+Jan 12 00:17:45 server sshd[2112]: Failed password for admin from 103.144.22.90
+Jan 12 00:17:46 server sshd[2112]: Failed password for admin from 103.144.22.90
+Jan 12 00:18:00 server systemd: Starting Backup Service…
+Jan 12 00:18:22 server cron[1022]: (root) CMD (run-parts /etc/cron.hourly)
+Jan 12 00:19:04 server kernel: Firewall: dropped connection from 45.9.14.122
+Jan 12 00:19:30 server sshd[2112]: Multiple rapid authentication failures from 45.9.14.122
+Jan 12 00:20:12 server sshd[2112]: Accepted password for admin from 192.168.1.12
+Jan 12 00:21:55 server sshd[2112]: Failed password for unknown user from 185.63.190.91
+Jan 12 00:22:14 server sudo: user2 : TTY=pts/0 ; COMMAND=/usr/bin/systemctl restart apache2
+Jan 12 00:23:44 server sshd[2112]: Accepted password for user3 from 192.168.1.13
+Jan 12 00:24:01 server sshd[2112]: Accepted password for user4 from 192.168.1.14
+Jan 12 00:24:17 server systemd: Reloading firewall…
+Jan 12 00:24:42 server sshd[2112]: Failed password for root from 37.156.12.55
+Jan 12 00:25:01 server sshd[2112]: Failed password for root from 37.156.12.55
+Jan 12 00:25:02 server sshd[2112]: Failed password for root from 37.156.12.55
+Jan 12 00:26:14 server kernel: Firewall: allowed connection from 192.168.1.23
+Jan 12 00:26:55 server sshd[2112]: Multiple connection attempts from 185.63.190.91
+Jan 12 00:27:33 server systemd: System backup completed successfully
+Jan 12 00:27:45 server sshd[2112]: Failed password for unknown user from 91.132.137.45
+Jan 12 00:28:03 server sshd[2112]: Failed password for unknown user from 91.132.137.45
+Jan 12 00:28:15 server sshd[2112]: Failed password for unknown user from 91.132.137.45
+Jan 12 00:29:44 server su: pam_unix(su:session): session opened for user root by user3(uid=1003)
+Jan 12 00:30:22 server sshd[2112]: Accepted password for user5 from 192.168.1.15
+Jan 12 00:31:10 server sudo: user5 : TTY=pts/1 ; COMMAND=/bin/systemctl restart mysql
+Jan 12 00:31:44 server kernel: Firewall: dropped connection from 185.63.190.91
+Jan 12 00:32:12 server sshd[2112]: Failed password for root from 102.165.52.20
+Jan 12 00:32:45 server sshd[2112]: Failed password for root from 102.165.52.20
+Jan 12 00:32:46 server sshd[2112]: Failed password for root from 102.165.52.20
+Jan 12 00:33:30 server systemd: Starting Network Manager…
+Jan 12 00:33:54 server sshd[2112]: Accepted password for user6 from 192.168.1.16
+Jan 12 00:34:40 server sshd[2112]: Accepted password for user7 from 192.168.1.17
+Jan 12 00:35:12 server kernel: Firewall: allowed connection from 192.168.1.18
+Jan 12 00:35:33 server systemd: Starting Security Audit…
+Jan 12 00:36:12 server sshd[2112]: Failed password for unknown user from 103.85.12.33
+Jan 12 00:36:14 server sshd[2112]: Failed password for unknown user from 103.85.12.33
+Jan 12 00:36:15 server sshd[2112]: Failed password for unknown user from 103.85.12.33
+Jan 12 00:37:02 server su: pam_unix(su:session): session closed for user root
+Jan 12 00:37:44 server sshd[2112]: Accepted password for user8 from 192.168.1.19
+Jan 12 00:38:12 server sshd[2112]: Failed password for root from 156.146.62.33
+Jan 12 00:38:14 server sshd[2112]: Failed password for root from 156.146.62.33
+Jan 12 00:38:15 server sshd[2112]: Failed password for root from 156.146.62.33
+Ja
 
