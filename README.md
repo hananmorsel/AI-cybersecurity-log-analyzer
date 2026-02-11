@@ -80,9 +80,20 @@ ai-cybersecurity-log-analyzer/
 - Machine learning pipeline  
 
 ---
+## 🖥️ Streamlit Dashboard
 
+Run:
+
+streamlit run app/streamlit_app.py
+
+Features:
+
+- Upload logs
+- Automatic ML-based anomaly detection
+- Table of results
+- Download analyzed logs
 ## 📌 Future Improvements
-- Add visualization dashboard (Streamlit)
+
 - Train on larger datasets
 - Add regex pre-processing for noise reduction  
 
